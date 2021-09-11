@@ -8,9 +8,7 @@ Shop Shop is an e-commerce application that allows users to shop for various ite
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Screenshot](#screenshot)
   - [Questions](#questions)
 
 ## Installation
@@ -20,7 +18,13 @@ From the root directory, type npm start to start the Express and GraphQL/Apollo 
 
 ## Usage
 
+Live Deployment: [View Application](https://warm-garden-46229.herokuapp.com/)
+
 This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
+
+## Screenshot
+
+![screenshot of the blog](./assets/shop-shop.png)
 
 ## Questions
   
